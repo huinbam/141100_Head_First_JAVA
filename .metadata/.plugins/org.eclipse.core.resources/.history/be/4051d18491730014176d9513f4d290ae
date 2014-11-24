@@ -1,0 +1,13 @@
+package ch02;
+
+public class Movie {
+
+	String title;
+	String genre;
+	int rating;
+
+
+	public static void main(String[] args) {
+
+	}
+}
